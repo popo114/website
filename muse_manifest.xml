@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="https://github.com/popo114/youdountsay.github.io.git" resolutions="1x" timestamp="1470869466951">
+<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="https://github.com/popo114/youdountsay.github.io" resolutions="1x" timestamp="1470927001161">
   <folder name="css">
     <file name="site_global.css" crc="3916556066"/>
     <file name="master_blog.css" crc="4190707724" ref="blog"/>
