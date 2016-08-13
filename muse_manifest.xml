@@ -1,26 +1,25 @@
-<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="https://github.com/popo114/youdountsay.github.io" resolutions="1x" timestamp="1470927001161">
+<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="https://github.com/popo114/youdountsay.github.io.git" resolutions="1x" timestamp="1471053732848">
   <folder name="css">
-    <file name="site_global.css" crc="3916556066"/>
-    <file name="master_blog.css" crc="4190707724" ref="blog"/>
-    <file name="master_a-master.css" crc="468569817" ref="contact:index:about:blog-programming"/>
-    <file name="contact.css" crc="24192071" ref="contact"/>
-    <file name="blog.css" crc="302210711" ref="blog"/>
-    <file name="index.css" crc="197363847" ref="index"/>
-    <file name="iefonts_index.css" crc="3983580203" ref="index"/>
-    <file name="about.css" crc="4036339380" ref="about"/>
-    <file name="blog-programming.css" crc="137072156" ref="blog-programming"/>
+    <file name="site_global.css" crc="3807910441"/>
+    <file name="master_a-master.css" crc="4042605066" ref="contact:index:about:blog-programming:blog"/>
+    <file name="contact.css" crc="44638902" ref="contact"/>
+    <file name="blog.css" crc="3978492810" ref="blog"/>
+    <file name="index.css" crc="489790927" ref="index"/>
+    <file name="iefonts_index.css" crc="393883960" ref="index"/>
+    <file name="about.css" crc="3762042176" ref="about"/>
+    <file name="blog-programming.css" crc="3905116025" ref="blog-programming"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="312386352" ref="index:about:blog:contact:blog-programming"/>
     <file name="museutils.js" crc="4155826306" ref="index:about:blog:contact:blog-programming"/>
     <file name="whatinput.js" crc="86476730" ref="index:about:blog:contact:blog-programming"/>
     <file name="museconfig.js" crc="483509463" ref="index:about:blog:contact:blog-programming"/>
-    <file name="pie.js" crc="3827607177" ref="index:blog"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
     <file name="jquery.watch.js" crc="117772946" ref="index:about:blog:contact:blog-programming"/>
-    <file name="webpro.js" crc="4078243563" ref="index:contact"/>
-    <file name="musewpslideshow.js" crc="4115829919" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="3936724022" ref="index"/>
-    <file name="touchswipe.js" crc="157639107" ref="index"/>
+    <file name="webpro.js" crc="4078243563" ref="index:contact:about:blog"/>
+    <file name="musewpslideshow.js" crc="4115829919" ref="index:about:blog:contact"/>
+    <file name="jquery.museoverlay.js" crc="3936724022" ref="index:about:blog:contact"/>
+    <file name="touchswipe.js" crc="157639107" ref="index:about:blog:contact"/>
     <file name="require.js" crc="228336483" ref="index:about:blog:contact:blog-programming"/>
     <file name="form_check.php" crc="474517188" ref="contact"/>
     <file name="form_throttle.php" crc="495784356" ref="contact"/>
@@ -28,22 +27,23 @@
     <file name="form-u569.php" crc="34046555" ref="contact"/>
   </folder>
   <folder name="images">
-    <file name="pexels-photo-133935.jpg" crc="492815581" seo="true" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="pexels-photo-115099.jpg" crc="197635387" seo="true" ref="index"/>
-    <file name="pexels-photo-134643.jpg" crc="4013460603" seo="true" ref="index"/>
-    <file name="coffee-apple-iphone-desk.jpg" crc="236997001" seo="true" ref="index"/>
-    <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="people-woman-coffee-meeting.jpg" crc="4184509899" seo="true" ref="about"/>
-    <file name="programming-crop-u707.jpg" crc="4156793899" ref="blog"/>
+    <file name="pexels-photo-133935.jpg" crc="164487390" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:about:blog:contact"/>
+    <file name="pexels-photo-115099.jpg" crc="186058158" seo="true" ref="about"/>
+    <file name="coffee-apple-iphone-desk.jpg" crc="424602253" seo="true" ref="blog"/>
+    <file name="loading.gif" crc="3815509949" ref="index:about:blog:contact"/>
+    <file name="people-woman-coffee-meeting.jpg" crc="214658897" seo="true" ref="about"/>
     <file name="u580-17.png" crc="289560223" ref="contact"/>
     <file name="u580-17-r.png" crc="231014521" ref="contact"/>
     <file name="u580-17-m.png" crc="12774082" ref="contact"/>
     <file name="u580-17-fs.png" crc="84394497" ref="contact"/>
+    <file name="guy-on-mountain.png" crc="141929375" seo="true" ref="index"/>
+    <file name="programming-u707.png" crc="134029752" ref="blog"/>
+    <file name="city.jpg" crc="3885235305" seo="true" ref="contact"/>
   </folder>
-  <file name="index.html" crc="13771705" seo="true" mt="1470852928545" redirect="true"/>
-  <file name="about.html" crc="4263754835" seo="true" mt="1470852898715" redirect="true"/>
-  <file name="blog.html" crc="350098641" seo="true" mt="1470868876565" redirect="true"/>
-  <file name="contact.html" crc="4072865266" seo="true" mt="1470852950291" redirect="true"/>
-  <file name="blog-programming.html" crc="122763820" seo="true" mt="1470868940367" redirect="true"/>
+  <file name="index.html" crc="243568990" seo="true" mt="1471053710051" redirect="true"/>
+  <file name="about.html" crc="4031287745" seo="true" mt="1471053710051" redirect="true"/>
+  <file name="blog.html" crc="219902024" seo="true" mt="1471053710051" redirect="true"/>
+  <file name="contact.html" crc="194936965" seo="true" mt="1471053710051" redirect="true"/>
+  <file name="blog-programming.html" crc="455773788" seo="true" mt="1471053710051" redirect="true"/>
 </manifest>
